@@ -7,7 +7,9 @@
 1. Clone this repository
 2. Run `npm install`
 3. Start the server with `npm run start-server`
+    * The server will be available on port 8080
 4. Start the client with `npm run start-client` (also runs watcher)
+    * The client will be available on port 8000
 
 ### Production
 
