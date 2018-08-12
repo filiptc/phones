@@ -1,0 +1,493 @@
+[
+  {
+    "color": "black",
+    "description": "Bar",
+    "id": "5d63e0a0-5906-4f06-92da-cce5c8e5220c",
+    "imageUrl": "http://thekindle3books.com/wp-content/uploads/2017/05/Nokia-1100-the-best-selling-mobile-phone-in-history-2.jpg",
+    "price": 368,
+    "soldUnits": "250",
+    "title": "Nokia 1100",
+    "years": [
+      "2003"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "616da529-68b9-44a6-b48a-667b1b58aa7b",
+    "imageUrl": "http://paynget.pk/wp-content/uploads/2016/07/1110-blue-500x500.jpg",
+    "price": 613,
+    "soldUnits": "250",
+    "title": "Nokia 1110",
+    "years": [
+      "2005"
+    ]
+  },
+  {
+    "color": "gold",
+    "description": "Touchscreen",
+    "id": "c77ff7a7-873b-41be-a0f3-70d5493c0a17",
+    "imageUrl": "https://images.kogan.com/image/fetch/s--PYK8gQDP--/b_white,c_pad,f_auto,h_400,q_auto:good,w_600/https://assets.kogan.com/files/product/KHIP6xxxxx/KHIP6xxGLD-webres.jpg",
+    "price": 638,
+    "soldUnits": "220",
+    "title": "Apple iPhone 6 and iPhone 6 Plus",
+    "years": [
+      "2014"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Bar",
+    "id": "4c0cfc4a-a875-4ed7-af8a-1519a3be0860",
+    "imageUrl": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Nokia_3210/Nokia_3210_L_1.jpg",
+    "price": 474,
+    "soldUnits": "160",
+    "title": "Nokia 3210",
+    "years": [
+      "1999"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "f7e3d456-b522-4e41-bfc3-ccf903c8c632",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51uO3%2BWbLwL.jpg",
+    "price": 605,
+    "soldUnits": "150",
+    "title": "Nokia 1200",
+    "years": [
+      "2007"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Bar",
+    "id": "8a571a7e-ae76-4b5b-aee7-478a1707877a",
+    "imageUrl": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Nokia_6600/Nokia_6600_L_1.jpg",
+    "price": 175,
+    "soldUnits": "150",
+    "title": "Nokia 6600",
+    "years": [
+      "2003"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Touchscreen",
+    "id": "b1807fd1-7687-42a9-aea7-659cd98ae9f5",
+    "imageUrl": "https://cdn2.gsmarena.com/vv/pics/nokia/nokia-5230-1.jpg",
+    "price": 483,
+    "soldUnits": "150",
+    "title": "Nokia 5230",
+    "years": [
+      "2009"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Bar",
+    "id": "9fbbdd1c-4071-4912-a5a6-048a6984cb51",
+    "imageUrl": "http://st1.bgr.in/wp-content/uploads/2014/12/678ac67863b94c3ac536af99bd96ee2e_375x500_1.jpg",
+    "price": 180,
+    "soldUnits": "150",
+    "title": "Samsung E1100",
+    "years": [
+      "2009",
+      "2012"
+    ]
+  },
+  {
+    "color": "grey",
+    "description": "Bar",
+    "id": "34f76469-1696-4022-a785-d6927c4c58b2",
+    "imageUrl": "https://static.toiimg.com/photo/56590026/Nokia-2600.jpg",
+    "price": 146,
+    "soldUnits": "135",
+    "title": "Nokia 2600 (2610/2626/2630)",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Flip phone",
+    "id": "a6e8b9b1-7d4a-453a-9e06-a726e7097e23",
+    "imageUrl": "https://d3nevzfk7ii3be.cloudfront.net/igi/aiMBjwplGgTLSIXe.large",
+    "price": 195,
+    "soldUnits": "130",
+    "title": "Motorola RAZR V3",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Bar",
+    "id": "98db021a-2aec-4a4d-830c-f33a4a3e118b",
+    "imageUrl": "http://cdn.shopify.com/s/files/1/1054/3464/products/1600_grande.jpg?v=1509990201",
+    "price": 729,
+    "soldUnits": "130",
+    "title": "Nokia 1600 (1650/1661)",
+    "years": [
+      "2006"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "e040121b-d69c-4b13-b52d-02d9ddd7e047",
+    "imageUrl": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Nokia_3310/Nokia_3310_L_1.jpg",
+    "price": 134,
+    "soldUnits": "126",
+    "title": "Nokia 3310 (3330)",
+    "years": [
+      "2000"
+    ]
+  },
+  {
+    "color": "red",
+    "description": "Bar",
+    "id": "515f9e2a-9007-449b-b425-e9d5ffc98b6c",
+    "imageUrl": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Nokia_1208/Nokia_1208_L_1.jpg",
+    "price": 718,
+    "soldUnits": "100",
+    "title": "Nokia 1208 (1209)",
+    "years": [
+      "2007"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Touchscreen",
+    "id": "4f768cd8-54ca-4c07-bd29-113777522bbe",
+    "imageUrl": "https://s7d2.scene7.com/is/image/SamsungUS/Pdpkeyfeature-sch-i545zbavzw-600x600-C1-062016?$product-details-jpg$",
+    "price": 546,
+    "soldUnits": "80",
+    "title": "Samsung Galaxy S4",
+    "years": [
+      "2013"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "079ac968-37c4-4aaf-84c3-c6ee7217af88",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41UbZXPUoUL.jpg",
+    "price": 585,
+    "soldUnits": "75",
+    "title": "Nokia 6010 (6020/6030)",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "9ed63aba-080e-405e-9a1e-f336ee439873",
+    "imageUrl": "https://static.toiimg.com/photo/54058199/Apple-iPhone-5-64GB.jpg",
+    "price": 455,
+    "soldUnits": "70",
+    "title": "Apple iPhone 5",
+    "years": [
+      "2012",
+      "2013"
+    ]
+  },
+  {
+    "color": "red",
+    "description": "Bar",
+    "id": "c8ef3188-9b90-4370-997d-59f7acfa53a2",
+    "imageUrl": "https://www.symbios.pk/dev/image/cache/data/n/nokia_5130_xpressmusic__46049-500x500.jpg",
+    "price": 674,
+    "soldUnits": "65",
+    "title": "Nokia 5130 (5220/5310)",
+    "years": [
+      "2007",
+      "2009"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "0b488959-f608-426b-9e25-c99eb92d41ca",
+    "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/530201374810PM_635_iPhone_4s.png",
+    "price": 361,
+    "soldUnits": "60",
+    "title": "Apple iPhone 4S",
+    "years": [
+      "2011",
+      "2014"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Flip phone",
+    "id": "d12e0bc5-b058-4c02-b303-d0d8297e1e2e",
+    "imageUrl": "https://www.telegraph.co.uk/content/dam/technology/2016/01/26/motorola-StarTac_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?imwidth=450",
+    "price": 115,
+    "soldUnits": "60",
+    "title": "Motorola StarTAC",
+    "years": [
+      "1996"
+    ]
+  },
+  {
+    "color": "grey",
+    "description": "Bar",
+    "id": "a430ebfb-9057-494b-98cc-d0fe03d92d72",
+    "imageUrl": "https://www.moviles.com/fotos/motorola-c200-2518-g.jpg",
+    "price": 732,
+    "soldUnits": "60",
+    "title": "Motorola C200",
+    "years": [
+      "2003",
+      "2006"
+    ]
+  },
+  {
+    "color": "purple",
+    "description": "Touchscreen",
+    "id": "a877a831-71aa-424b-b3c9-89d09676a070",
+    "imageUrl": "https://s7d2.scene7.com/is/image/SamsungUS/Pdpdefault-sph-l710zpbspr-600x600-C1-052016?$product-details-jpg$",
+    "price": 265,
+    "soldUnits": "60",
+    "title": "Samsung Galaxy S III",
+    "years": [
+      "2012",
+      "2013"
+    ]
+  },
+  {
+    "color": "grey",
+    "description": "Bar",
+    "id": "9fd67f72-dc98-459a-820a-e759a67c851f",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51VY41gAvpL._SL500_AC_SS350_.jpg",
+    "price": 658,
+    "soldUnits": "60",
+    "title": "Motorola C139",
+    "years": [
+      "2005"
+    ]
+  },
+  {
+    "color": "gold",
+    "description": "Touchscreen",
+    "id": "0dba437c-c330-43d8-9d46-790d60bb1b0f",
+    "imageUrl": "https://www.91-img.com/pictures/89993-v1-samsung-galaxy-s7-edge-mobile-phone-large-1.jpg",
+    "price": 393,
+    "soldUnits": "55",
+    "title": "Samsung Galaxy S7 and Galaxy S7 edge",
+    "years": [
+      "2016"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "34648a5d-e0a0-4861-a500-42a1605ef283",
+    "imageUrl": "https://cdn2.gsmarena.com/vv/pics/nokia/no6230_00.jpg",
+    "price": 336,
+    "soldUnits": "50",
+    "title": "Nokia 6230 (6233)",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "9ce89986-88de-4125-8ff3-75abfbf935fe",
+    "imageUrl": "https://md1.pricebaba.com/images/product/mobile/351/apple-iphone-4-8gb-raw.jpg",
+    "price": 739,
+    "soldUnits": "50",
+    "title": "Apple iPhone 4",
+    "years": [
+      "2010",
+      "2013"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "51d0b956-9629-43f8-a35d-eb501e817a83",
+    "imageUrl": "https://static.toiimg.com/photo/56590175/Nokia-3100.jpg",
+    "price": 264,
+    "soldUnits": "50",
+    "title": "Nokia 3100 (3120)",
+    "years": [
+      "2003"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Touchscreen",
+    "id": "69128c62-17a1-4afc-bbf5-fe03a85062f0",
+    "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/5292013114646PM_635_samsung_galaxy_s_II.png",
+    "price": 670,
+    "soldUnits": "40",
+    "title": "Samsung Galaxy S II",
+    "years": [
+      "2011",
+      "2012"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "6097eaeb-92a5-4bbc-8007-beb1e70faf29",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81gS9Sx0g7L._SX569_.jpg",
+    "price": 374,
+    "soldUnits": "38.9",
+    "title": "Apple iPhone 7 and iPhone 7 Plus",
+    "years": [
+      "2016"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Touchscreen",
+    "id": "4039a7c3-a3fd-4008-98e5-65dc9d265d0f",
+    "imageUrl": "http://d2pa5gi5n2e1an.cloudfront.net/global/images/product/mobilephones/Apple_iPhone_3GS/Apple_iPhone_3GS_L_1.jpg",
+    "price": 208,
+    "soldUnits": "35",
+    "title": "Apple iPhone 3GS",
+    "years": [
+      "2009, 2012"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Flip phone",
+    "id": "d6e37c1d-1506-426a-b933-a4c678676605",
+    "imageUrl": "https://lscdn.blob.core.windows.net/products/mobiles/images/nokia/album/large/nokia-2650(3).jpg",
+    "price": 386,
+    "soldUnits": "35",
+    "title": "Nokia 2650",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "ac34c19f-3d0a-4490-9376-e5762e0925d5",
+    "imageUrl": "https://s7d2.scene7.com/is/image/SamsungUS/Pdpdefault-sch-i605zwavzw-600x600-C1-052016?$product-details-jpg$",
+    "price": 389,
+    "soldUnits": "30",
+    "title": "Samsung Galaxy Note II",
+    "years": [
+      "2012",
+      "2013"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Slider",
+    "id": "494e1af9-459c-4fde-936b-19b3503c355d",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61soeUk9MXL._SY355_.jpg",
+    "price": 213,
+    "soldUnits": "30",
+    "title": "Samsung E250",
+    "years": [
+      "2006"
+    ]
+  },
+  {
+    "color": "white",
+    "description": "Touchscreen",
+    "id": "ceb26d0c-e61b-4ce4-b80d-60355fe8075a",
+    "imageUrl": "https://s7d2.scene7.com/is/image/SamsungUS/Pdpdefault-sch-i535rwbvzw-600x600-C1-052016?$product-details-jpg$",
+    "price": 774,
+    "soldUnits": "25",
+    "title": "Samsung Galaxy S",
+    "years": [
+      "2010",
+      "2012"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Touchscreen",
+    "id": "1ed3dc9d-a26c-4331-abf1-51cbe9783379",
+    "imageUrl": "https://www.samsung.com/global/galaxy/galaxy-s8/images/gallery/galaxy-s8_gallery_front_black_s4.png",
+    "price": 741,
+    "soldUnits": "20",
+    "title": "Samsung Galaxy S8",
+    "years": [
+      "2017"
+    ]
+  },
+  {
+    "color": "grey",
+    "description": "Touchscreen",
+    "id": "2b9d8cc5-6bfb-4783-843a-08017dab4b47",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61RBFyyomQL._SX569_.jpg",
+    "price": 120,
+    "soldUnits": "16",
+    "title": "HTC Thunderbolt",
+    "years": [
+      "2011",
+      "2012"
+    ]
+  },
+  {
+    "color": "blue",
+    "description": "Bar",
+    "id": "f80b6435-e73a-4687-9d80-c8f3c501d6b1",
+    "imageUrl": "https://o.aolcdn.com/images/dims?resize=640%2C480&crop=640%2C480%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs3.amazonaws.com%2Fengadget-production%2Fproduct%2F13%2Faew%2Fsony-ericsson-k300-laq.jpg&client=cbc79c14efcebee57402&signature=454c10dba13b9c3fc5b6d05b17d9c128dfcb95cd",
+    "price": 414,
+    "soldUnits": "15",
+    "title": "Sony Ericsson K300",
+    "years": [
+      "2004"
+    ]
+  },
+  {
+    "color": "red",
+    "description": "Bar",
+    "id": "44e0ecfd-b921-4909-baa8-28de0be4a0ee",
+    "imageUrl": "https://www.engadget.com/media/2006/07/red_k750.jpg",
+    "price": 105,
+    "soldUnits": "15",
+    "title": "Sony Ericsson K750",
+    "years": [
+      "2005"
+    ]
+  },
+  {
+    "color": "grey",
+    "description": "Bar",
+    "id": "ed34cb22-72e2-42b3-9c12-24732c68cd4e",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/411sSrKW4UL.jpg",
+    "price": 719,
+    "soldUnits": "15",
+    "title": "Research In Motion (RIM) BlackBerry Pearl",
+    "years": [
+      "2006"
+    ]
+  },
+  {
+    "color": "gold",
+    "description": "Touchscreen",
+    "id": "61fed7b0-14c1-4113-81b0-64af7548436c",
+    "imageUrl": "https://www.geek.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-09-at-11.39.46-AM-403x352.png",
+    "price": 597,
+    "soldUnits": "13",
+    "title": "Motorola Droid Bionic",
+    "years": [
+      "2011"
+    ]
+  },
+  {
+    "color": "black",
+    "description": "Touchscreen",
+    "id": "2ac3dae9-eccb-4883-9d85-98b17fdac30f",
+    "imageUrl": "https://s7d2.scene7.com/is/image/SamsungUS/Pdpkeyfeature-sm-g900azkaatt-600x600-C1-062016?$product-details-jpg$",
+    "price": 343,
+    "soldUnits": "12",
+    "title": "Samsung Galaxy S5",
+    "years": [
+      "2014"
+    ]
+  }
+]

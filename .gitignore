@@ -1,0 +1,4 @@
+bin
+src/**/*.js
+*.map
+node_modules

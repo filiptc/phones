@@ -1,0 +1,26 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+      "max-line-length": {
+        "options": [120]
+      },
+      "new-parens": true,
+      "no-arg": true,
+      "no-bitwise": true,
+      "no-conditional-assignment": true,
+      "no-consecutive-blank-lines": false,
+      "quotemark": [true, "single", "jsx-double"],
+      "ordered-imports": [false],
+      "object-literal-sort-keys": [false],
+      "arrow-parens": false,
+      "no-console": [false],
+      "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
+      "no-empty": [true, "allow-empty-functions"],
+      "file-name-casing": [true, "camel-case"]
+    },
+    "rulesDirectory": []
+}
